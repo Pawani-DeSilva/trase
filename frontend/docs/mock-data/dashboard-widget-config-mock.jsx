@@ -186,5 +186,8 @@ export default {
     type: 'sentence',
     colors,
     yAxisLabel: { text: 'Trade volume', suffix: 't' }
+  },
+  ranking: {
+    type: 'ranking'
   }
 };
